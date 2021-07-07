@@ -23,3 +23,6 @@ status-website:
       href: /
     - title: captana
       href: https://www.captana.io
+
+i18n:
+  footer: 2021 captana | ses-imagotag
