@@ -14,8 +14,8 @@ sites:
 status-website:
   cname: status.captana.io
   # baseUrl: /your-repo-name # Not needed as status page is directly accesible in root of https://status.captana.io
-  logoUrl: https://raw.githubusercontent.com/captana/status/master/assets/logo.png
-  name: captana status
+  logoUrl: https://raw.githubusercontent.com/captana/status/master/assets/logo1.png
+  name: ""
   introTitle: "**captana** capturing and analytics"
   introMessage: This is the status page for services of [**captana.io**](https://www.captana.io)
   navbar:
