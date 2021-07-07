@@ -2,8 +2,12 @@ owner: captana
 repo: status
 
 sites:
-  - name: captana.io
+  - name: captana.io | Frontend
     url: https://www.captana.io
+    icon: https://www.captana.io/assets/media/logos/favicon.png
+    maxResponseTime: 2000
+  - name: captana.io | API
+    url: $CAPTANAIO_API_BACKEND_CHECK
     icon: https://www.captana.io/assets/media/logos/favicon.png
     maxResponseTime: 2000
 
