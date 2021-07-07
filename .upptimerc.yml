@@ -14,7 +14,8 @@ sites:
 status-website:
   cname: status.captana.io
   # baseUrl: /your-repo-name # Not needed as status page is directly accesible in root of https://status.captana.io
-  themeUrl: https://raw.githubusercontent.com/captana/status/master/assets/captana-style-dark.css
+  # themeUrl: https://raw.githubusercontent.com/captana/status/master/assets/captana-style-dark.css
+  theme: ocean
   favicon: https://raw.githubusercontent.com/captana/status/master/assets/favicon.png
   logoUrl: https://raw.githubusercontent.com/captana/status/master/assets/logo-transparent-white.png
   name: " "
