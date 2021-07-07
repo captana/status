@@ -5,6 +5,8 @@ repo: status
 sites:
   - name: captana.io
     url: https://www.captana.io
+    icon: https://www.captana.io/assets/media/logos/favicon.png
+    maxResponseTime: 2000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
