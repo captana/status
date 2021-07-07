@@ -1,4 +1,3 @@
-# Change these first
 owner: captana
 repo: status
 
@@ -9,10 +8,8 @@ sites:
     maxResponseTime: 2000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.captana.io
-  # baseUrl: /your-repo-name
+  # baseUrl: /your-repo-name # Not needed as status page is directly accesible in root of https://status.captana.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: captana status
   introTitle: "**captana** capturing and analytics"
@@ -22,6 +19,3 @@ status-website:
       href: /
     - title: captana
       href: https://www.captana.io
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
