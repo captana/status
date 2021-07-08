@@ -16,17 +16,14 @@ status-website:
   # baseUrl: /your-repo-name # Not needed as status page is directly accesible in root of https://status.captana.io
   # themeUrl: https://raw.githubusercontent.com/captana/status/master/assets/captana-style-dark.css # does not work as mime-type wrong -> sadly also assets folder is not copied to gh-pages
   theme: light
-  favicon: https://raw.githubusercontent.com/captana/status/master/assets/favicon.png
-  logoUrl: https://raw.githubusercontent.com/captana/status/master/assets/logo1.PNG
-  name: " "
-  introTitle: "**captana** capturing and analytics"
-  introMessage: This is the status page for services of [**captana.io**](https://www.captana.io)
+  # Custom theme by using css-option..
   css: ":root {     --body-background-color: #f0f7f7;     --body-text-color: #002626;     --card-background-color: #ffffff;     --nav-background-color: #345dff;     --nav-border-bottom-color: #d8e8e4;     --nav-current-border-bottom-color: #47c2ff;     --card-border-color: #d8e8e4;     --down-border-left-color: #eb3b5a;     --down-background-color: #ffd0d2;     --degraded-border-left-color: #f7b731;     --up-border-left-color: #47c2ff;     --tag-color: #ffffff;     --tag-up-background-color: #47c2ff;     --tag-down-background-color: #eb3b5a;     --tag-degraded-background-color: #f7b731;     --change-background-color: #f7b731;     --error-button-border-color: #1a46ad;     --error-button-background-color: #3867d6;     --error-button-color: #ffffff;     --submit-button-border-color: #1a46ad;     --submit-button-background-color: #3867d6;     --submit-button-color: #ffffff;     --graph-opacity: 1;     --graph-filter: none; }"
+  favicon: https://raw.githubusercontent.com/captana/status/master/assets/favicon.png
+  logoUrl: https://raw.githubusercontent.com/captana/status/master/assets/logo-transparent-white.png
+  name: " "
+  introTitle: "**captana** status"
+  introMessage: Service status of [**captana.io**](https://www.captana.io)
   navbar:
-    - title: status
-      href: /
-    - title: captana
-      href: https://www.captana.io
       
 # customStatusWebsitePackage: "git+https://github.com/upptime/status-page.git"
 
