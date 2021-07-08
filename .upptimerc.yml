@@ -27,7 +27,7 @@ status-website:
     - title: captana
       href: https://www.captana.io
       
-customStatusWebsitePackage: "git+https://github.com/upptime/status-page.git"
+# customStatusWebsitePackage: "git+https://github.com/upptime/status-page.git"
 
 i18n:
   footer: 2021 captana | ses-imagotag
