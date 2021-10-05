@@ -28,4 +28,4 @@ status-website:
 # customStatusWebsitePackage: "git+https://github.com/upptime/status-page.git"
 
 i18n:
-  footer: 2021 captana | ses-imagotag
+  footer: 2021 captana | ses-imagotag 
