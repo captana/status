@@ -4,19 +4,19 @@
     "url": "https://www.captana.io",
     "icon": "https://raw.githubusercontent.com/captana/status/master/assets/favicon.png",
     "slug": "captana-io-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 359,
-    "timeWeek": 525,
-    "timeMonth": 525,
+    "timeDay": 470,
+    "timeWeek": 532,
+    "timeMonth": 527,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2022-04-07": 0
+      "2022-04-07": 20
     }
   },
   {
