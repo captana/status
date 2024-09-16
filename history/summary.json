@@ -22,18 +22,19 @@
     "url": "$CAPTANAIO_API_BACKEND_CHECK",
     "icon": "https://raw.githubusercontent.com/captana/status/master/assets/favicon.png",
     "slug": "captana-io-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1267,
-    "timeDay": 1151,
-    "timeWeek": 1189,
-    "timeMonth": 1365,
-    "timeYear": 1309,
+    "time": 1246,
+    "timeDay": 3345,
+    "timeWeek": 1733,
+    "timeMonth": 1488,
+    "timeYear": 1319,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-07-03": 17
     }
   }
