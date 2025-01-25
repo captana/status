@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 673,
-    "timeDay": 658,
-    "timeWeek": 739,
-    "timeMonth": 744,
-    "timeYear": 730,
+    "timeDay": 533,
+    "timeWeek": 715,
+    "timeMonth": 739,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "captana-io-api",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1280,
-    "timeDay": 2238,
-    "timeWeek": 1654,
-    "timeMonth": 1324,
+    "timeDay": 2209,
+    "timeWeek": 1645,
+    "timeMonth": 1325,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2025-01-24": 7,
       "2024-07-03": 17
     }
   }
