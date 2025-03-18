@@ -4,10 +4,10 @@
     "url": "https://www.captana.io",
     "icon": "https://raw.githubusercontent.com/captana/status/master/assets/favicon.png",
     "slug": "captana-io-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 696,
@@ -15,25 +15,28 @@
     "timeWeek": 686,
     "timeMonth": 729,
     "timeYear": 750,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-18": 1
+    }
   },
   {
     "name": "captana.io | API",
     "url": "$CAPTANAIO_API_BACKEND_CHECK",
     "icon": "https://raw.githubusercontent.com/captana/status/master/assets/favicon.png",
     "slug": "captana-io-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1281,
+    "time": 1277,
     "timeDay": 1041,
     "timeWeek": 1115,
     "timeMonth": 1161,
     "timeYear": 1326,
     "dailyMinutesDown": {
+      "2025-03-18": 0,
       "2025-02-14": 18,
       "2024-07-03": 17
     }
