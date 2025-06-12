@@ -24,17 +24,17 @@
     "slug": "captana-io-api",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1300,
     "timeDay": 1575,
     "timeWeek": 1244,
     "timeMonth": 1383,
-    "timeYear": 1313,
+    "timeYear": 1312,
     "dailyMinutesDown": {
-      "2025-06-12": 0,
+      "2025-06-12": 8,
       "2025-02-14": 18,
       "2024-07-03": 17
     }
