@@ -5,11 +5,11 @@ sites:
   - name: captana.io | Frontend
     url: https://www.captana.io
     icon: https://raw.githubusercontent.com/captana/status/master/assets/favicon.png
-    maxResponseTime: 2000
+    maxResponseTime: 25000
   - name: captana.io | API
     url: $CAPTANAIO_API_BACKEND_CHECK
     icon: https://raw.githubusercontent.com/captana/status/master/assets/favicon.png
-    maxResponseTime: 2000
+    maxResponseTime: 25000
 
 status-website:
   cname: status.captana.io
