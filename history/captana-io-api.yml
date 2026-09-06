@@ -1,7 +1,7 @@
 url: $CAPTANAIO_API_BACKEND_CHECK
 status: up
 code: 200
-responseTime: 1832
-lastUpdated: 2026-09-05T23:10:16.476Z
+responseTime: 2027
+lastUpdated: 2026-09-06T23:10:11.912Z
 startTime: 2021-07-07T13:58:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
