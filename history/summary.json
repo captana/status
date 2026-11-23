@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 599,
-    "timeWeek": 646,
-    "timeMonth": 641,
-    "timeYear": 682,
+    "time": 709,
+    "timeDay": 580,
+    "timeWeek": 639,
+    "timeMonth": 646,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2025-11-29": 16
     }
@@ -25,15 +25,15 @@
     "icon": "https://raw.githubusercontent.com/captana/status/master/assets/favicon.png",
     "slug": "captana-io-api",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 1818,
-    "timeDay": 805,
-    "timeWeek": 1209,
-    "timeMonth": 1275,
+    "time": 1819,
+    "timeDay": 874,
+    "timeWeek": 1221,
+    "timeMonth": 1282,
     "timeYear": 2013,
     "dailyMinutesDown": {
       "2025-11-29": 24,
@@ -79,8 +79,7 @@
       "2026-05-20": 143,
       "2026-05-21": 74,
       "2026-08-20": 32,
-      "2026-09-12": 27,
-      "2026-11-22": 7
+      "2026-09-12": 27
     }
   }
 ]
